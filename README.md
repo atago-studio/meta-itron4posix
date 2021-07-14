@@ -1,0 +1,3 @@
+# meta-itron4posix
+Yoctoでitron4posixを利用するためのレシピになります。
+recipes-tasks/tsksampleを参考にしてITRONのタスク群とMakefileを作成ください。
